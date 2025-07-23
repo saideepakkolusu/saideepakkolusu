@@ -56,7 +56,18 @@ Developed a CNN-based model to detect tumors in MRI scans with high accuracy.
 
 ---
 
-## 📈 Stats (optional)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saideepakkolusu&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=saideepakkolusu&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideepakkolusu&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
 
 ## 📈 GitHub Stats
 
