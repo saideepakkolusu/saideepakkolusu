@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sai Deepak Kolusu
 
-🎓 **Electronics and Communication Engineering Student**  
+🎓 **Electronics and Communication Engineering Graduate (2025)**  
 💻 **Aspiring QA Engineer | Python Developer | Deep Learning Enthusiast**  
-📍 Chennai, India  
+📍 Hyderabad, India  
 📫 [saideepakkolusu39@gmail.com](mailto:saideepakkolusu39@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sai-deepak-kolusu-7052a1270/)
 
@@ -10,9 +10,9 @@
 
 ## 🔍 About Me
 
-I'm a passionate final-year engineering student with a strong foundation in **software testing, problem-solving**, and **Python programming**. I specialize in building intelligent systems with a focus on **deep learning** applications. My mission is to contribute to impactful, real-world projects in **machine learning** and **AI**, while constantly upskilling and contributing to open-source communities.
+I'm a passionate engineering graduate with a strong foundation in **software testing**, **problem-solving**, and **Python programming**. I specialize in building intelligent systems powered by **deep learning** and aim to contribute to impactful projects in AI and automation.
 
-I believe in consistency, collaboration, and curiosity — and I'm always looking for the next challenge.
+With a continuous learning mindset, I am currently diving deeper into **Machine Learning** and **Advanced Deep Learning**, while actively contributing to open-source and polishing my personal projects.
 
 ---
 
@@ -60,32 +60,24 @@ Developed a CNN-based model to detect tumors in MRI scans with high accuracy.
 
 ## 🎯 GitHub Goals & Journey
 
-I'm actively working to improve the depth and consistency of my GitHub profile. Here's what I'm focusing on:
+I'm actively working to grow my GitHub presence and technical contributions. Here’s how:
 
-### 📌 Stars & Project Quality
-- Creating innovative, real-world projects
-- Writing clean, well-documented code with polished `README.md`s
-- Adding live demos, screenshots, and usage guides
+### 📌 Stars & Projects
+- Creating innovative, real-world solutions
+- Writing rich READMEs with screenshots, demos, and clean documentation
 
 ### 🔁 Commit Consistency
-- Daily or weekly commits to stay active
-- Pushing LeetCode & HackerRank solutions
-- Continuously evolving personal projects
+- Regular daily/weekly commits
+- Uploading LeetCode & HackerRank challenge solutions
+- Refining personal AI/ML projects
 
-### 🔧 Pull Requests & Contributions
-- Contributing to open-source projects
-- Collaborating through meaningful PRs and issues
-- Seeking out “good first issue” opportunities
+### 🔧 Pull Requests & Open Source
+- Contributing to OSS projects with real impact
+- Collaborating with devs through meaningful PRs and discussions
 
-### 🐛 Issues & Engagement
-- Reporting bugs and suggesting features
-- Participating in GitHub discussions
-- Supporting community-led repositories
-
-### 📚 Learning & Future Goals
-- Expanding into advanced **Machine Learning** & **Deep Learning**
-- Exploring new tools and frameworks in the AI ecosystem
-- Diversifying language use beyond Python (JavaScript, C++ coming soon!)
+### 📚 Ongoing Learning
+- Mastering **Machine Learning** and **Advanced Deep Learning**
+- Exploring JavaScript and C++ to diversify my tech stack
 
 ---
 
@@ -98,6 +90,14 @@ I'm actively working to improve the depth and consistency of my GitHub profile. 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideepakkolusu&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saideepakkolusu&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saideepakkolusu&theme=tokyonight&row=1&margin-w=10&margin-h=10" />
 </p>
 
 ---
