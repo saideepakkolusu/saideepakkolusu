@@ -4,13 +4,15 @@
 💻 **Aspiring QA Engineer | Python Developer | Deep Learning Enthusiast**  
 📍 Chennai, India  
 📫 [saideepakkolusu39@gmail.com](mailto:saideepakkolusu39@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/saideepakkolusu/)
+🔗 [LinkedIn](https://www.linkedin.com/in/sai-deepak-kolusu-7052a1270/)
 
 ---
 
 ## 🔍 About Me
 
-I'm a passionate final-year engineering student with a strong foundation in **software testing, problem-solving**, and **Python programming**. I specialize in building intelligent systems with a focus on **deep learning** applications. I'm eager to contribute to innovative projects, especially in the areas of **quality assurance** and **machine learning**, and grow as a professional in the tech industry.
+I'm a passionate final-year engineering student with a strong foundation in **software testing, problem-solving**, and **Python programming**. I specialize in building intelligent systems with a focus on **deep learning** applications. My mission is to contribute to impactful, real-world projects in **machine learning** and **AI**, while constantly upskilling and contributing to open-source communities.
+
+I believe in consistency, collaboration, and curiosity — and I'm always looking for the next challenge.
 
 ---
 
@@ -56,6 +58,36 @@ Developed a CNN-based model to detect tumors in MRI scans with high accuracy.
 
 ---
 
+## 🎯 GitHub Goals & Journey
+
+I'm actively working to improve the depth and consistency of my GitHub profile. Here's what I'm focusing on:
+
+### 📌 Stars & Project Quality
+- Creating innovative, real-world projects
+- Writing clean, well-documented code with polished `README.md`s
+- Adding live demos, screenshots, and usage guides
+
+### 🔁 Commit Consistency
+- Daily or weekly commits to stay active
+- Pushing LeetCode & HackerRank solutions
+- Continuously evolving personal projects
+
+### 🔧 Pull Requests & Contributions
+- Contributing to open-source projects
+- Collaborating through meaningful PRs and issues
+- Seeking out “good first issue” opportunities
+
+### 🐛 Issues & Engagement
+- Reporting bugs and suggesting features
+- Participating in GitHub discussions
+- Supporting community-led repositories
+
+### 📚 Learning & Future Goals
+- Expanding into advanced **Machine Learning** & **Deep Learning**
+- Exploring new tools and frameworks in the AI ecosystem
+- Diversifying language use beyond Python (JavaScript, C++ coming soon!)
+
+---
 
 ## 📈 GitHub Stats
 
@@ -68,6 +100,6 @@ Developed a CNN-based model to detect tumors in MRI scans with high accuracy.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideepakkolusu&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
+---
 
-
-_Thank you for visiting my profile! Let's connect and build something amazing._ 🚀
+_Thank you for visiting my profile! Let's connect, learn, and build something amazing together._ 🚀
