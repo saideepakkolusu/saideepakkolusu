@@ -77,7 +77,7 @@ I'm actively working to grow my GitHub presence and technical contributions. Her
 
 ### 📚 Ongoing Learning
 - Mastering **Machine Learning** and **Advanced Deep Learning**
-- Exploring JavaScript and C++ to diversify my tech stack
+- Exploring JavaScript and C++ to diversify my tech stack.
 
 ---
 
